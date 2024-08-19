@@ -31,7 +31,7 @@
     "rules": "storage.rules"
   },
   "hosting": {
-    "public": "out",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
