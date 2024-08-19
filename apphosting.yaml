@@ -1,14 +1,14 @@
 env:
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
+    value: AIzaSyCTbbTCFPgaae4mFvUQXXSTrbSNAUrkbCo
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
+    value: canvas-primacy-416609.firebaseapp.com
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
+    value: canvas-primacy-416609
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
+    value: canvas-primacy-416609.appspot.com
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
+    value: 373353994370
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+    value: 1:373353994370:web:dd3d0699493ace3329fc9b
