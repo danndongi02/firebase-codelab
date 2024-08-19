@@ -55,7 +55,7 @@ export default function Restaurant({
     });
 
     return () => {
-      unsubscribeFromRestaurant();
+      unsubscribeFromRestaurant;
     };
   }, []);
 
